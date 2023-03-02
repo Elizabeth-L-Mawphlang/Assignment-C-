@@ -1,0 +1,6 @@
+C:\Users\elizabethm\source\repos\Assignment4\question2\question2\bin\Debug\question2.exe.config
+C:\Users\elizabethm\source\repos\Assignment4\question2\question2\bin\Debug\question2.exe
+C:\Users\elizabethm\source\repos\Assignment4\question2\question2\bin\Debug\question2.pdb
+C:\Users\elizabethm\source\repos\Assignment4\question2\question2\obj\Debug\question2.csproj.CoreCompileInputs.cache
+C:\Users\elizabethm\source\repos\Assignment4\question2\question2\obj\Debug\question2.exe
+C:\Users\elizabethm\source\repos\Assignment4\question2\question2\obj\Debug\question2.pdb

@@ -1,0 +1,7 @@
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\elizabethm\source\repos\Assignment5\Question2\Question2\obj\Debug\Question2.pdb

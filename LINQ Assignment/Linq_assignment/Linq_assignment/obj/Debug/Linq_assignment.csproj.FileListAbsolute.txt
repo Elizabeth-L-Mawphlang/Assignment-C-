@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\obj\Debug\Linq_assignment.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\obj\Debug\Linq_assignment.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\bin\Debug\Linq_assignment.exe.config
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\bin\Debug\Linq_assignment.exe
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\bin\Debug\Linq_assignment.pdb
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\obj\Debug\Linq_assignment.exe
+C:\Users\asus\source\repos\LINQ Assignment\Linq_assignment\Linq_assignment\obj\Debug\Linq_assignment.pdb
